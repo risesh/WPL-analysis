@@ -4,7 +4,7 @@ An interactive cricket analytics dashboard for the **Women's Premier League (WPL
 
 ## Try it out
 
-> **[Launch the Dashboard →](https://wpl-analysis.streamlit.app)**
+> **[Launch the Dashboard →](https://wpl-analysis.streamlit.app/)**
 
 No installation needed — runs entirely in your browser.
 
