@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Credentials
+.env
+kaggle.json
+
+# Pip bootstrap script (not project code)
+get-pip.py
+
+# Auction raw data
+Auction data/
+Old scripts/

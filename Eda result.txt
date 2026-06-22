@@ -1,0 +1,213 @@
+=== DUPLICATE DELIVERY ROWS ===
+      match_id       date   season  innings                 batting_team                 bowling_team  over  ball         batter            bowler      non_striker  runs_batter  runs_extras  runs_total  is_wide  is_noball  is_legal  is_wicket wicket_kind player_out
+13058  1358938 2023-03-12  2022/23        2               Mumbai Indians                  UP Warriorz     3   3.1      YH Bhatia  K Anjali Sarvani      HK Matthews            0            1           1     True      False     False      False         NaN        NaN
+13059  1358938 2023-03-12  2022/23        2               Mumbai Indians                  UP Warriorz     3   3.1      YH Bhatia  K Anjali Sarvani      HK Matthews            0            1           1     True      False     False      False         NaN        NaN
+7560   1417717 2024-02-24  2023/24        2                  UP Warriorz  Royal Challengers Bangalore     7   7.2       D Vrinda         G Wareham       TM McGrath            0            1           1     True      False     False      False         NaN        NaN
+7561   1417717 2024-02-24  2023/24        2                  UP Warriorz  Royal Challengers Bangalore     7   7.2       D Vrinda         G Wareham       TM McGrath            0            1           1     True      False     False      False         NaN        NaN
+13867  1417718 2024-02-25  2023/24        1               Gujarat Giants               Mumbai Indians     5   5.3    D Hemalatha   NR Sciver-Brunt        BL Mooney            0            1           1     True      False     False      False         NaN        NaN
+13868  1417718 2024-02-25  2023/24        1               Gujarat Giants               Mumbai Indians     5   5.3    D Hemalatha   NR Sciver-Brunt        BL Mooney            0            1           1     True      False     False      False         NaN        NaN
+12301  1417719 2024-02-26  2023/24        1                  UP Warriorz               Delhi Capitals    14  14.2     S Sehrawat           A Reddy       PN Khemnar            0            1           1     True      False     False      False         NaN        NaN
+12302  1417719 2024-02-26  2023/24        1                  UP Warriorz               Delhi Capitals    14  14.2     S Sehrawat           A Reddy       PN Khemnar            0            1           1     True      False     False      False         NaN        NaN
+19309  1417724 2024-03-02  2023/24        1  Royal Challengers Bangalore               Mumbai Indians     0   0.6     SFM Devine   NR Sciver-Brunt       S Mandhana            0            1           1     True      False     False      False         NaN        NaN
+19310  1417724 2024-03-02  2023/24        1  Royal Challengers Bangalore               Mumbai Indians     0   0.6     SFM Devine   NR Sciver-Brunt       S Mandhana            0            1           1     True      False     False      False         NaN        NaN
+16113  1417725 2024-03-03  2023/24        2               Gujarat Giants               Delhi Capitals     5   5.3      A Gardner           A Reddy  V Krishnamurthy            0            1           1     True      False     False      False         NaN        NaN
+16114  1417725 2024-03-03  2023/24        2               Gujarat Giants               Delhi Capitals     5   5.3      A Gardner           A Reddy  V Krishnamurthy            0            1           1     True      False     False      False         NaN        NaN
+2930   1417726 2024-03-04  2023/24        1  Royal Challengers Bangalore                  UP Warriorz     1   1.1     S Mandhana  K Anjali Sarvani        S Meghana            0            1           1     True      False     False      False         NaN        NaN
+2931   1417726 2024-03-04  2023/24        1  Royal Challengers Bangalore                  UP Warriorz     1   1.1     S Mandhana  K Anjali Sarvani        S Meghana            0            1           1     True      False     False      False         NaN        NaN
+2205   1417727 2024-03-05  2023/24        1               Delhi Capitals               Mumbai Indians     3   3.6     MM Lanning   NR Sciver-Brunt    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+2206   1417727 2024-03-05  2023/24        1               Delhi Capitals               Mumbai Indians     3   3.6     MM Lanning   NR Sciver-Brunt    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+3893   1417730 2024-03-08  2023/24        1                  UP Warriorz               Delhi Capitals     2   2.1      DB Sharma           A Reddy         AJ Healy            0            1           1     True      False     False      False         NaN        NaN
+3894   1417730 2024-03-08  2023/24        1                  UP Warriorz               Delhi Capitals     2   2.1      DB Sharma           A Reddy         AJ Healy            0            1           1     True      False     False      False         NaN        NaN
+18355  1417732 2024-03-10  2023/24        1               Delhi Capitals  Royal Challengers Bangalore     3   3.3     MM Lanning      Renuka Singh    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+18356  1417732 2024-03-10  2023/24        1               Delhi Capitals  Royal Challengers Bangalore     3   3.3     MM Lanning      Renuka Singh    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+18516  1417732 2024-03-10  2023/24        2  Royal Challengers Bangalore               Delhi Capitals     8   8.6       EA Perry       JL Jonassen       S Molineux            0            1           1     True      False     False      False         NaN        NaN
+18517  1417732 2024-03-10  2023/24        2  Royal Challengers Bangalore               Delhi Capitals     8   8.6       EA Perry       JL Jonassen       S Molineux            0            1           1     True      False     False      False         NaN        NaN
+9394   1469298 2025-02-14  2024/25        1               Gujarat Giants  Royal Challengers Bangalore    18  18.4         H Deol         G Wareham        A Gardner            0            1           1     True      False     False      False         NaN        NaN
+9395   1469298 2025-02-14  2024/25        1               Gujarat Giants  Royal Challengers Bangalore    18  18.4         H Deol         G Wareham        A Gardner            0            1           1     True      False     False      False         NaN        NaN
+14600  1469306 2025-02-24  2024/25        1  Royal Challengers Bangalore                  UP Warriorz    15  15.5       KS Ahuja          CA Henry         EA Perry            0            1           1     True      False     False      False         NaN        NaN
+14601  1469306 2025-02-24  2024/25        1  Royal Challengers Bangalore                  UP Warriorz    15  15.5       KS Ahuja          CA Henry         EA Perry            0            1           1     True      False     False      False         NaN        NaN
+11613  1469307 2025-02-25  2024/25        1               Gujarat Giants               Delhi Capitals    12  12.3     BS Fulmali      A Sutherland        TP Kanwar            0            1           1     True      False     False      False         NaN        NaN
+11614  1469307 2025-02-25  2024/25        1               Gujarat Giants               Delhi Capitals    12  12.3     BS Fulmali      A Sutherland        TP Kanwar            0            1           1     True      False     False      False         NaN        NaN
+11663  1469307 2025-02-25  2024/25        2               Delhi Capitals               Gujarat Giants     0   0.2     MM Lanning        DJS Dottin    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+11664  1469307 2025-02-25  2024/25        2               Delhi Capitals               Gujarat Giants     0   0.2     MM Lanning        DJS Dottin    Shafali Verma            0            1           1     True      False     False      False         NaN        NaN
+11456  1469311 2025-03-01  2024/25        2               Delhi Capitals  Royal Challengers Bangalore     3   3.1  Shafali Verma          KJ Garth      JL Jonassen            0            1           1     True      False     False      False         NaN        NaN
+11457  1469311 2025-03-01  2024/25        2               Delhi Capitals  Royal Challengers Bangalore     3   3.1  Shafali Verma          KJ Garth      JL Jonassen            0            1           1     True      False     False      False         NaN        NaN
+16681  1469317 2025-03-11  2024/25        2               Mumbai Indians  Royal Challengers Bangalore    19  19.2       S Sajana          EA Perry         S Ismail            0            1           1     True      False     False      False         NaN        NaN
+16682  1469317 2025-03-11  2024/25        2               Mumbai Indians  Royal Challengers Bangalore    19  19.2       S Sajana          EA Perry         S Ismail            0            1           1     True      False     False      False         NaN        NaN
+9564   1513682 2026-01-09  2025/26        1               Mumbai Indians  Royal Challengers Bangalore     7   7.1         H Kaur          SR Patil       G Kamalini            0            1           1     True      False     False      False         NaN        NaN
+9565   1513682 2026-01-09  2025/26        1               Mumbai Indians  Royal Challengers Bangalore     7   7.1         H Kaur          SR Patil       G Kamalini            0            1           1     True      False     False      False         NaN        NaN
+=== MATCHES ===
+Shape: (88, 14)
+match_id                      str
+date               datetime64[us]
+season                        str
+match_number              float64
+venue                         str
+city                          str
+team1                         str
+team2                         str
+toss_winner                   str
+toss_decision                 str
+winner                        str
+win_by_runs               float64
+win_by_wickets            float64
+player_of_match               str
+dtype: object
+  match_id       date   season  match_number                                    venue         city  ...                  toss_winner toss_decision                       winner win_by_runs win_by_wickets  player_of_match
+0  1469319 2025-03-15  2024/25           NaN                Brabourne Stadium, Mumbai       Mumbai  ...               Delhi Capitals         field               Mumbai Indians         8.0            NaN           H Kaur
+1  1513689 2026-01-15  2025/26           8.0  Dr DY Patil Sports Academy, Navi Mumbai  Navi Mumbai  ...                  UP Warriorz         field                  UP Warriorz         NaN            7.0           H Deol
+2  1358947 2023-03-21  2022/23          19.0       Dr DY Patil Sports Academy, Mumbai  Navi Mumbai  ...               Mumbai Indians         field               Mumbai Indians         NaN            4.0          AC Kerr
+3  1358930 2023-03-05  2022/23           2.0                Brabourne Stadium, Mumbai       Mumbai  ...  Royal Challengers Bangalore         field               Delhi Capitals        60.0            NaN        TG Norris
+4  1513703 2026-02-05  2025/26           NaN                Kotambi Stadium, Vadodara     Vadodara  ...  Royal Challengers Bangalore         field  Royal Challengers Bangalore         NaN            6.0       S Mandhana
+
+[5 rows x 14 columns]
+
+=== DELIVERIES ===
+Shape: (20638, 20)
+match_id                   str
+date            datetime64[us]
+season                     str
+innings                  int64
+batting_team               str
+bowling_team               str
+over                     int64
+ball                       str
+batter                     str
+bowler                     str
+non_striker                str
+runs_batter              int64
+runs_extras              int64
+runs_total               int64
+is_wide                   bool
+is_noball                 bool
+is_legal                  bool
+is_wicket                 bool
+wicket_kind                str
+player_out                 str
+dtype: object
+  match_id       date   season  innings    batting_team    bowling_team  over ball       batter  bowler  non_striker  runs_batter  runs_extras  runs_total  is_wide  is_noball  is_legal  is_wicket wicket_kind player_out
+0  1469319 2025-03-15  2024/25        1  Mumbai Indians  Delhi Capitals     0  0.1    YH Bhatia  M Kapp  HK Matthews            0            0           0    False      False      True      False         NaN        NaN
+1  1469319 2025-03-15  2024/25        1  Mumbai Indians  Delhi Capitals     0  0.2    YH Bhatia  M Kapp  HK Matthews            1            0           1    False      False      True      False         NaN        NaN
+2  1469319 2025-03-15  2024/25        1  Mumbai Indians  Delhi Capitals     0  0.3  HK Matthews  M Kapp    YH Bhatia            0            0           0    False      False      True      False         NaN        NaN
+3  1469319 2025-03-15  2024/25        1  Mumbai Indians  Delhi Capitals     0  0.4  HK Matthews  M Kapp    YH Bhatia            0            0           0    False      False      True      False         NaN        NaN
+4  1469319 2025-03-15  2024/25        1  Mumbai Indians  Delhi Capitals     0  0.5  HK Matthews  M Kapp    YH Bhatia            0            0           0    False      False      True      False         NaN        NaN
+
+=== MISSING VALUES — MATCHES ===
+match_id            0
+date                0
+season              0
+match_number        8
+venue               0
+city                0
+team1               0
+team2               0
+toss_winner         0
+toss_decision       0
+winner              1
+win_by_runs        53
+win_by_wickets     36
+player_of_match     0
+dtype: int64
+
+=== MISSING VALUES — DELIVERIES ===
+match_id            0
+date                0
+season              0
+innings             0
+batting_team        0
+bowling_team        0
+over                0
+ball                0
+batter              0
+bowler              0
+non_striker         0
+runs_batter         0
+runs_extras         0
+runs_total          0
+is_wide             0
+is_noball           0
+is_legal            0
+is_wicket           0
+wicket_kind     19559
+player_out      19559
+dtype: int64
+
+=== DUPLICATES ===
+Duplicate match rows:    0
+Duplicate delivery rows: 0
+
+=== MATCHES PER SEASON ===
+season
+2022/23    22
+2023/24    22
+2024/25    22
+2025/26    22
+Name: count, dtype: int64
+
+=== MATCHES PER TEAM ===
+Mumbai Indians                 37
+Delhi Capitals                 37
+Royal Challengers Bangalore    35
+Gujarat Giants                 34
+UP Warriorz                    33
+Name: count, dtype: int64
+
+=== TOSS DECISIONS ===
+toss_decision
+field    68
+bat      20
+Name: count, dtype: int64
+
+=== WINS PER TEAM ===
+winner
+Mumbai Indians                 23
+Delhi Capitals                 22
+Royal Challengers Bangalore    18
+Gujarat Giants                 13
+UP Warriorz                    11
+Name: count, dtype: int64
+
+=== WICKET TYPES ===
+wicket_kind
+caught               589
+bowled               219
+lbw                   88
+run out               76
+stumped               68
+caught and bowled     36
+retired out            2
+retired hurt           1
+Name: count, dtype: int64
+
+=== RUNS PER BALL DISTRIBUTION ===
+runs_batter
+0    8565
+1    7332
+2     802
+3      25
+4    3205
+5       4
+6     705
+Name: count, dtype: int64
+
+=== MATCHES WITH NO RESULT/SUPER OVER ===
+   match_id       date   season                        team1        team2 winner
+62  1469306 2025-02-24  2024/25  Royal Challengers Bangalore  UP Warriorz    NaN
+
+=== MATCHES WITHOUT MATCH NUMBER ===
+   match_id       date   season                        team1                        team2                       winner
+0   1469319 2025-03-15  2024/25               Mumbai Indians               Delhi Capitals               Mumbai Indians
+4   1513703 2026-02-05  2025/26               Delhi Capitals  Royal Challengers Bangalore  Royal Challengers Bangalore
+17  1513702 2026-02-03  2025/26               Gujarat Giants               Delhi Capitals               Delhi Capitals
+21  1469318 2025-03-13  2024/25               Mumbai Indians               Gujarat Giants               Mumbai Indians
+22  1358950 2023-03-26  2022/23               Delhi Capitals               Mumbai Indians               Mumbai Indians
+24  1417737 2024-03-17  2023/24               Delhi Capitals  Royal Challengers Bangalore  Royal Challengers Bangalore
+45  1417736 2024-03-15  2023/24  Royal Challengers Bangalore               Mumbai Indians  Royal Challengers Bangalore
+69  1358949 2023-03-24  2022/23               Mumbai Indians                  UP Warriorz               Mumbai Indians
+
+=== 5-RUN BATTER DELIVERIES (4) ===
+     match_id       date       batter           bowler  runs_batter  runs_extras  runs_total  is_wide  is_noball
+1232  1417731 2024-03-09  D Hemalatha  NR Sciver-Brunt            5            0           5    False      False
+1513  1513693 2026-01-19      GJ Naik       SFM Devine            5            0           5    False      False
+6780  1417721 2024-02-28  P Vastrakar     S Ecclestone            5            0           5    False      False
+9488  1469298 2025-02-14     KS Ahuja      SG Satghare            5            0           5    False      False
